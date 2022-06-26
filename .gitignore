@@ -4,7 +4,7 @@
 
 # Config
 .env
-
+docker-compose.yml
 # Binaries for programs and plugins
 *.exe
 *.exe~
